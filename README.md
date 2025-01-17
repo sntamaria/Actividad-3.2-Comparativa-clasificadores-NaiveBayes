@@ -1,0 +1,1 @@
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/sntamaria/Actividad-3.2-Comparativa-clasificadores-NaiveBayes/blob/main/Maria_de_los_Angeles_Martin_de_la_Cruz_Actividad_3_2_–_Comparativa_clasificadores_NaiveBayes.ipynb)
